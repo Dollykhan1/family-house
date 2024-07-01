@@ -1,0 +1,88 @@
+[
+    {
+      "image_url": "https://i.ibb.co/yssbHjw/Home-2.webp",
+      "estate_title": "Luxury Downtown Apartment",
+      "id": "987654321",
+      "agent_name": "Atif Khan",
+      "description": "Elegant and spacious apartment located in the heart of downtown. Features include modern amenities, stunning city views, and convenient access to shopping and dining.",
+      "price": "$1390,000",
+      "status": "For Sale"
+    },
+    {
+      "image_url": "https://i.ibb.co/2nBDdqz/Home1.webp",
+      "estate_title": "Oceanfront Mansion",
+      "id": "456123789",
+      "agent_name": "Dolly Khan",
+      "description": "Magnificent mansion nestled along the coastline. This luxurious property boasts expansive living spaces, breathtaking ocean views, a private beach, and resort-style amenities.",
+      "price": "$12,80,000",
+      "status": "For Sale"
+    },
+    {
+      "image_url": "https://i.ibb.co/L88t7fh/Home3.webp",
+      "estate_title": "Tranquil Countryside Estate",
+      "id": "789456123",
+      "agent_name": "Alif Khan",
+      "description": "Idyllic countryside retreat offering serenity and privacy. This charming estate features lush gardens, a rustic farmhouse, and panoramic views of rolling hills.",
+      "price": "$1250,000",
+      "status": "For Sale"
+    },
+    {
+      "image_url": "https://i.ibb.co/WDJGws1/Home4.webp",
+      "estate_title": "Chic Urban Loft",
+      "id": "321789654",
+      "agent_name": "David Lee",
+      "description": "Stylish loft living in the heart of the city. This contemporary space features exposed brick walls, industrial accents, and close proximity to trendy restaurants and nightlife.",
+      "price": "$12090,000",
+      "status": "For Sale"
+    },
+
+    {
+      "image_url": "https://i.ibb.co/NTPYwDR/Home5.webp",
+      "estate_title": "424 Croaton Street, Ronkonkoma, NY 11779",
+      "id": "987654321",
+      "agent_name": "Dolly Khan",
+      "description": "Elegant and spacious apartment located in the heart of downtown. Features include modern amenities, stunning city views, and convenient access to shopping and dining.",
+      "price": "$990,000",
+      "status": "For Sale"
+    },
+    {
+      "image_url": "https://i.ibb.co/0C7z5wZ/Home6.webp",
+      "estate_title": "Oceanfront Mansion",
+      "id": "456123789",
+      "agent_name": "Khizir Khan",
+      "description": "Welcome to this spacious 3 Bedroom, 3 Full Bath Home in Lake Hills, completely redone in 2012! First Level features Den with Sliders to Backyard Brick Patio, Large 3rd Bedroom, Full Bath, Laundry Room with Utilities, and access to garage. Second Level boasts well-lit Living Room, Large Eat-in-Kitchen with Sliders to Upper Deck, Full Hallway Bath, Large Primary Bedroom with Full Bath & WIC, & nice-sized 2nd Bedroom. CAC, Anderson Windows w/Tilt Wash, IGS, Fully-fenced Yard. Solar panels are owned. Whole house alarm system and outside cameras. Bonuses: Pitching Mound on side of house & over 37-foot backyard trailer space with 50-amp service. Make this home yours today!",
+      "price": "$9,20,000",
+      "status": "For Sale"
+    },
+    {
+      "image_url": "https://i.ibb.co/mF6V7nv/Home7.webp",
+      "estate_title": "356 Deer Rd, Ronkonkoma, NY 11779",
+      "id": "789456123",
+      "agent_name": "Atif Khan",
+      "description": "Idyllic countryside retreat offering serenity and privacy. This charming estate features lush gardens, a rustic farmhouse, and panoramic views of rolling hills.",
+      "price": "$750,000",
+      "status": "For Sale"
+    },
+    {
+      "image_url": "https://i.ibb.co/QK6mBQK/home8.webp",
+      "estate_title": "Chic Urban Loft",
+      "id": "321789654",
+      "agent_name": "David Lee",
+      "description": "Stylish loft living in the heart of the city. This contemporary space features exposed brick walls, industrial accents, and close proximity to trendy restaurants and nightlife.",
+      "price": "$990,000",
+      "status": "For Sale"
+    },
+    {
+      "image_url": "https://i.ibb.co/31sHPZF/home9.webp",
+      "estate_title": "Chic Urban Loft",
+      "id": "321789654",
+      "agent_name": "Atif Khan",
+      "description": "Stylish loft living in the heart of the city. This contemporary space features exposed brick walls, industrial accents, and close proximity to trendy restaurants and nightlife.",
+      "price": "$1100,000",
+      "status": "For Sale"
+    }
+
+
+
+  ]
+  
